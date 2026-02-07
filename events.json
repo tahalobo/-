@@ -1,0 +1,268 @@
+{
+  "eventCategories": [
+    {
+      "id": "cultural",
+      "name": "ثقافي",
+      "eventIds": ["e1", "e2", "e5"]
+    },
+    {
+      "id": "music",
+      "name": "موسيقي",
+      "eventIds": ["e3"]
+    },
+    {
+      "id": "tech",
+      "name": "تقني",
+      "eventIds": ["e6"]
+    },
+    {
+      "id": "gaming",
+      "name": "ألعاب",
+      "eventIds": ["e_gaming_1"]
+    }
+  ],
+  "events": [
+    {
+      "id": "e_music_1",
+      "title": "كاظم الساهر - جولة الوفاء",
+      "description": "ليلة موسيقية لا تُنسى مع قيصر الأغنية العربية في قلب بغداد. تجربة VIP حصرية مقدمة بالتعاون مع BE Events.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1533174072545-e8d4aa97d890?auto=format&fit=crop&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "BE Events",
+      "hostImage": "https://via.placeholder.com/150",
+      "eventUrl": "#",
+      "categoryId": "music",
+      "eventDate": "2026-06-15T20:00:00",
+      "endDate": "2026-06-15T23:59:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e_music_2",
+      "title": "ماجد المهندس - ليلة بغداد",
+      "description": "احتفالية فنية كبرى تجمع بين الأداء الراقي والأجواء الموسيقية الساحرة.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "BE Events",
+      "hostImage": "https://via.placeholder.com/150",
+      "eventUrl": "#",
+      "categoryId": "music",
+      "eventDate": "2026-07-10T21:00:00",
+      "endDate": "2026-07-10T23:59:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e_music_3",
+      "title": "رحمة رياض - بغداد تغني",
+      "description": "أجمل الأغاني العراقية الحديثة في عرض حي ومباشر على مسرح مدينة ألعاب السندباد.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "BE Events",
+      "hostImage": "https://via.placeholder.com/150",
+      "eventUrl": "#",
+      "categoryId": "music",
+      "eventDate": "2026-08-05T19:30:00",
+      "endDate": "2026-08-05T22:30:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e_gaming_1",
+      "title": "نهائيات العراق الكبرى",
+      "description": "البطولة الأضخم للرياضات الإلكترونية في العراق بمشاركة دولية وجوائز قيمة.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "IQ Esports",
+      "hostImage": "https://via.placeholder.com/150",
+      "eventUrl": "#",
+      "categoryId": "gaming",
+      "eventDate": "2026-05-01T10:00:00",
+      "endDate": "2026-05-05T22:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e1",
+      "title": "مهرجان بغداد للثقافة والفنون",
+      "description": "مهرجان سنوي يضم عروضاً ثقافية وفنية متنوعة تعرض تراث بغداد العريق، يشمل معارض للرسم والنحت، وعروض مسرحية وموسيقية تعكس الهوية العراقية الأصيلة.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1533174072545-e8d4aa97d890?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "وزارة الثقافة العراقية",
+      "hostImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iraq.svg/1200px-Flag_of_Iraq.svg.png",
+      "eventUrl": "https://www.baghdadfestival.com",
+      "categoryId": "cultural",
+      "eventDate": "2026-05-06T10:00:00",
+      "endDate": "2026-05-20T22:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "marathon_2026",
+      "title": "ماراثون بغداد الدولي",
+      "description": "انطلق مع آلاف العدائين في شوارع بغداد العريقة، فعالية رياضية تجمع بين الصحة والوحدة الوطنية.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "وزارة الشباب والرياضة",
+      "hostImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iraq.svg/200px-Flag_of_Iraq.svg.png",
+      "eventUrl": "https://www.iraqisport.gov.iq",
+      "categoryId": "sports",
+      "eventDate": "2026-02-05T08:00:00",
+      "endDate": "2026-02-08T18:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "tech_baghdad_now",
+      "title": "مؤتمر بغداد للابتكار الرقمي",
+      "description": "استكشف مستقبل التكنولوجيا في العراق مع نخبة من المطورين والشركات الناشئة في قلب العاصمة.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "المجلس العراقي للابتكار",
+      "hostImage": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "eventUrl": "https://www.iraqtech.iq",
+      "categoryId": "tech",
+      "eventDate": "2026-02-06T09:00:00",
+      "endDate": "2026-02-07T17:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e2",
+      "title": "معرض الكتاب الدولي",
+      "description": "أكبر معرض للكتاب في العراق يضم دور نشر عربية وعالمية، مع جلسات حوارية وتوقيع كتب لأبرز الكتاب والمثقفين.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "اتحاد الناشرين العراقيين",
+      "hostImage": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "eventUrl": "https://www.baghdadbookfair.com",
+      "categoryId": "cultural",
+      "eventDate": "2026-05-12T11:00:00",
+      "endDate": "2026-05-22T20:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e3",
+      "title": "ليالي العود البغدادي",
+      "description": "أمسية موسيقية ساحرة تستحضر ألحان العود العراقي الأصيل، بمشاركة نخبة من العازفين الرواد والشباب.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "بيت العود",
+      "hostImage": "https://images.unsplash.com/photo-1514117445516-2ec9085e5b7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "eventUrl": "https://www.oudhouse.iq",
+      "categoryId": "music",
+      "eventDate": "2026-05-20T19:00:00",
+      "endDate": "2026-05-20T23:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e4",
+      "title": "معرض الفن الحديث",
+      "description": "معرض يجمع أعمالاً فنية معاصرة لفنانين عراقيين شباب، يسلط الضوء على الاتجاهات الحديثة في الرسم والنحت.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "جاليري بغداد",
+      "hostImage": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "eventUrl": "https://www.baghdadgallery.com",
+      "categoryId": "art",
+      "eventDate": "2026-06-01T10:00:00",
+      "endDate": "2026-06-15T22:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e5",
+      "title": "ليلة الشعر الشعبي",
+      "description": "قصائد تحاكي الوجدان والواقع في ليلة شعرية تجمع كبار شعراء الأدب الشعبي في بغداد.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "نادي الشعر العراقي",
+      "hostImage": "https://images.unsplash.com/photo-1455390582262-044cdead277a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "eventUrl": "https://www.poetryclub.iq",
+      "categoryId": "cultural",
+      "eventDate": "2026-06-05T09:00:00",
+      "endDate": "2026-06-05T12:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e5_morning",
+      "title": "أصبوحة شعرية في المتنبي",
+      "description": "لقاء شعري يجمع محبي الأدب في قلب شارع المتنبي، مع قراءات شعرية ونقاشات أدبية مفتوحة.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "نادي الشعر",
+      "hostImage": "https://images.unsplash.com/photo-1455390582262-044cdead277a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "eventUrl": "https://www.poetryclub.iq",
+      "categoryId": "cultural",
+      "eventDate": "2026-06-05T09:00:00",
+      "endDate": "2026-06-05T12:00:00",
+      "isUpcoming": true
+    },
+    {
+      "id": "e6",
+      "title": "مؤتمر بغداد التقني",
+      "description": "أكبر تجمع للمطورين والشركات التقنية في العراق، ورش عمل ومحاضرات عن مستقبل التكنولوجيا.",
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+          "type": "image"
+        }
+      ],
+      "hostName": "بغداد تك",
+      "hostImage": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      "eventUrl": "https://www.baghdadtech.com",
+      "categoryId": "tech",
+      "eventDate": "2026-03-24T00:00:00",
+      "endDate": "2026-03-26T00:00:00",
+      "isUpcoming": true
+    }
+  ]
+}
